@@ -3,7 +3,6 @@
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
-    <title>AlexiaBuddeau</title>
     <style>
     	body {background-color: black;}
     h1 {color: white; text-align: center; font-family: "Georgia", serif;}
