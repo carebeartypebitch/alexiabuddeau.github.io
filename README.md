@@ -1,11 +1,9 @@
- <!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
     <style>
-    	body {background-color: black;}
-    h1 {color: white; text-align: center; font-family: "Georgia", serif;}
+    h1 { text-align: center; font-family: "Georgia", serif;}
     img { display: block; margin: auto; width: 50%;}
     
     </style>	
